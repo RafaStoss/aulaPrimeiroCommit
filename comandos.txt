@@ -1,0 +1,7 @@
+git initi
+
+ git commit -m "versão inicial"
+
+git status
+
+git add.
